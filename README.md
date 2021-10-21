@@ -185,7 +185,7 @@ for i in dictionary_edges.items():
 
 Было:
 
-![Альтернативный текст](http://images.vfl.ru/ii/1634820844/f96007c4/36356321.png)
+![Альтернативный текст](http://images.vfl.ru/ii/1634821294/d092a237/36356490.png)
 
 Стало:
 ![Альтернативный текст](http://images.vfl.ru/ii/1634820882/2159664d/36356326.png)
